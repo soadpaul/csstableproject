@@ -1,0 +1,1 @@
+html table using css code to establish ebay template listing
